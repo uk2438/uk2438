@@ -1,16 +1,13 @@
-## Hi there 👋
+게임의 기획 의도를 실제 플레이 경험으로 구현하는 데 관심이 있습니다.
+QA 및 CS 업무 경험을 바탕으로 사용자의 관점에서 문제를 발견하고 개선하고자 합니다.
 
-<!--
-**uk2438/uk2438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 관심 분야
+- 게임 기획 및 내러티브 설계
+- Unity와 C#을 활용한 게임 개발
+- 게임 QA와 사용자 경험 개선
 
-Here are some ideas to get you started:
+## 주요 사용 기술
+Unity · C# · Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 프로젝트
+### [페르카(Pherka)](https://github.com/uk2438/Pherka)
